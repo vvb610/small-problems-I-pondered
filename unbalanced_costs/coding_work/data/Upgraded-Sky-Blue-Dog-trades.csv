@@ -1,0 +1,374 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2008-01-02T15:00:00Z,SPY,109.242312704,913,Market,Filled,99738.231498752,Warning: No quote information available at 01/02/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-01-08T21:00:00Z,SPY,103.509176064,-913,Market On Open,Filled,-94503.877746432,Liquidated 
+2008-01-09T15:00:00Z,SPY,103.739990656,910,Market,Filled,94403.39149696,Warning: No quote information available at 01/09/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-01-18T17:00:00Z,SPY,97.850495744,-910,Market,Filled,-89043.95112704,Liquidated - Warning: No quote information available at 01/18/2008 12:00:00 America/New_York, order filled using TradeBar data 
+2008-01-18T18:00:00Z,SPY,98.565276416,904,Market,Filled,89103.009880064,Warning: No quote information available at 01/18/2008 13:00:00 America/New_York, order filled using TradeBar data 
+2008-02-01T20:00:00Z,SPY,103.620860544,-904,Market,Filled,-93673.257931776,Liquidated - Warning: No quote information available at 02/01/2008 15:00:00 America/New_York, order filled using TradeBar data 
+2008-02-01T21:00:00Z,SPY,103.635751808,902,Market On Open,Filled,93479.448130816, 
+2008-02-07T15:00:00Z,SPY,98.260005504,-902,Market,Filled,-88630.524964608,Liquidated - Warning: No quote information available at 02/07/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-02-07T16:00:00Z,SPY,98.930112384,897,Market,Filled,88740.310808448,Warning: No quote information available at 02/07/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-04-18T15:00:00Z,SPY,103.89426257,-897,Market,Filled,-93193.15352529,Liquidated - Warning: No quote information available at 04/18/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-04-18T16:00:00Z,SPY,104.171114404,895,Market,Filled,93233.14739158,Warning: No quote information available at 04/18/2008 12:00:00 America/New_York, order filled using TradeBar data 
+2008-06-20T19:00:00Z,SPY,98.720288856,-895,Market,Filled,-88354.65852612,Liquidated - Warning: No quote information available at 06/20/2008 15:00:00 America/New_York, order filled using TradeBar data 
+2008-06-20T20:00:00Z,SPY,99.291795708,893,Market On Open,Filled,88667.573567244, 
+2008-07-07T17:00:00Z,SPY,93.674484939,-893,Market,Filled,-83651.315050527,Liquidated - Warning: No quote information available at 07/07/2008 13:00:00 America/New_York, order filled using TradeBar data 
+2008-07-07T18:00:00Z,SPY,93.486489264,891,Market,Filled,83296.461934224,Warning: No quote information available at 07/07/2008 14:00:00 America/New_York, order filled using TradeBar data 
+2008-08-11T16:00:00Z,SPY,98.261579409,-891,Market,Filled,-87551.067253419,Liquidated - Warning: No quote information available at 08/11/2008 12:00:00 America/New_York, order filled using TradeBar data 
+2008-08-11T17:00:00Z,SPY,98.502213873,889,Market,Filled,87568.468133097,Warning: No quote information available at 08/11/2008 13:00:00 America/New_York, order filled using TradeBar data 
+2008-09-04T20:00:00Z,SPY,92.71946691,-889,Market On Open,Filled,-82427.60608299,Liquidated 
+2008-09-05T14:00:00Z,SPY,92.726986737,889,Market,Filled,82434.291209193,Warning: No quote information available at 09/05/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-09-17T20:00:00Z,SPY,88.696359465,-889,Market On Open,Filled,-78851.063564385,Liquidated 
+2008-09-18T14:00:00Z,SPY,89.117469777,885,Market,Filled,78868.960752645,Warning: No quote information available at 09/18/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-09-19T14:00:00Z,SPY,94.34310732,-885,Market,Filled,-83493.6499782,Liquidated - Warning: No quote information available at 09/19/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-09-19T15:00:00Z,SPY,93.5565366,892,Market,Filled,83452.4306472,Warning: No quote information available at 09/19/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-09-29T14:00:00Z,SPY,88.61021688,-892,Market,Filled,-79040.31345696,Liquidated - Warning: No quote information available at 09/29/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-09-29T15:00:00Z,SPY,88.5270219,893,Market,Filled,79054.6305567,Warning: No quote information available at 09/29/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-10-03T20:00:00Z,SPY,81.01678416,-893,Market On Open,Filled,-72347.98825488,Liquidated 
+2008-10-06T14:00:00Z,SPY,80.2831557,901,Market,Filled,72335.1232857,Warning: No quote information available at 10/06/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-10-07T20:00:00Z,SPY,73.741005,-901,Market On Open,Filled,-66440.645505,Liquidated 
+2008-10-08T14:00:00Z,SPY,76.44106026,869,Market,Filled,66427.28136594,Warning: No quote information available at 10/08/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-10-09T19:00:00Z,SPY,72.37206942,-869,Market,Filled,-62891.32832598,Liquidated - Warning: No quote information available at 10/09/2008 15:00:00 America/New_York, order filled using TradeBar data 
+2008-10-09T20:00:00Z,SPY,65.85260826,906,Market On Open,Filled,59662.46308356, 
+2008-10-10T16:00:00Z,SPY,64.87695804,-906,Market,Filled,-58778.52398424,Liquidated - Warning: No quote information available at 10/10/2008 12:00:00 America/New_York, order filled using TradeBar data 
+2008-10-10T17:00:00Z,SPY,66.01143504,939,Market,Filled,61984.73750256,Warning: No quote information available at 10/10/2008 13:00:00 America/New_York, order filled using TradeBar data 
+2008-10-13T14:00:00Z,SPY,70.93506522,-939,Market,Filled,-66608.02624158,Liquidated - Warning: No quote information available at 10/13/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-10-13T15:00:00Z,SPY,71.74432548,928,Market,Filled,66578.73404544,Warning: No quote information available at 10/13/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-10-13T20:00:00Z,SPY,79.15624188,-928,Market On Open,Filled,-73456.99246464,Liquidated 
+2008-10-14T14:00:00Z,SPY,76.66795566,958,Market,Filled,73447.90152228,Warning: No quote information available at 10/14/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-10-15T15:00:00Z,SPY,71.94853134,-958,Market,Filled,-68926.69302372,Liquidated - Warning: No quote information available at 10/15/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-10-15T16:00:00Z,SPY,72.2661849,954,Market,Filled,68941.9403946,Warning: No quote information available at 10/15/2008 12:00:00 America/New_York, order filled using TradeBar data 
+2008-10-15T20:00:00Z,SPY,68.98376478,-954,Market On Open,Filled,-65810.51160012,Liquidated 
+2008-10-16T14:00:00Z,SPY,69.34679742,949,Market,Filled,65810.11075158,Warning: No quote information available at 10/16/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-10-17T17:00:00Z,SPY,73.09057152,-949,Market,Filled,-69362.95237248,Liquidated - Warning: No quote information available at 10/17/2008 13:00:00 America/New_York, order filled using TradeBar data 
+2008-10-17T18:00:00Z,SPY,73.83932634,939,Market,Filled,69335.12743326,Warning: No quote information available at 10/17/2008 14:00:00 America/New_York, order filled using TradeBar data 
+2008-10-22T14:00:00Z,SPY,69.51318738,-939,Market,Filled,-65272.88294982,Liquidated - Warning: No quote information available at 10/22/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-10-22T15:00:00Z,SPY,70.30732128,928,Market,Filled,65245.19414784,Warning: No quote information available at 10/22/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-10-23T18:00:00Z,SPY,66.4803522,-928,Market,Filled,-61693.7668416,Liquidated - Warning: No quote information available at 10/23/2008 14:00:00 America/New_York, order filled using TradeBar data 
+2008-10-23T19:00:00Z,SPY,65.71647102,939,Market,Filled,61707.76628778,Warning: No quote information available at 10/23/2008 15:00:00 America/New_York, order filled using TradeBar data 
+2008-10-28T20:00:00Z,SPY,70.79892798,-939,Market On Open,Filled,-66480.19337322,Liquidated 
+2008-10-29T14:00:00Z,SPY,70.5644694,942,Market,Filled,66471.7301748,Warning: No quote information available at 10/29/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-10-31T19:00:00Z,SPY,74.119164,-942,Market,Filled,-69820.252488,Liquidated - Warning: No quote information available at 10/31/2008 15:00:00 America/New_York, order filled using TradeBar data 
+2008-10-31T20:00:00Z,SPY,73.24183512,950,Market On Open,Filled,69579.743364, 
+2008-11-06T18:00:00Z,SPY,69.33923424,-950,Market,Filled,-65872.272528,Liquidated - Warning: No quote information available at 11/06/2008 13:00:00 America/New_York, order filled using TradeBar data 
+2008-11-06T19:00:00Z,SPY,69.02158068,957,Market,Filled,66053.65271076,Warning: No quote information available at 11/06/2008 14:00:00 America/New_York, order filled using TradeBar data 
+2008-11-12T19:00:00Z,SPY,65.56520742,-957,Market,Filled,-62745.90350094,Liquidated - Warning: No quote information available at 11/12/2008 14:00:00 America/New_York, order filled using TradeBar data 
+2008-11-12T20:00:00Z,SPY,65.27780658,962,Market,Filled,62797.24992996,Warning: No quote information available at 11/12/2008 15:00:00 America/New_York, order filled using TradeBar data 
+2008-11-13T21:00:00Z,SPY,67.59970284,-962,Market On Open,Filled,-65030.91413208,Liquidated 
+2008-11-14T15:00:00Z,SPY,68.57535306,948,Market,Filled,65009.43470088,Warning: No quote information available at 11/14/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-11-17T16:00:00Z,SPY,64.5895572,-948,Market,Filled,-61230.9002256,Liquidated - Warning: No quote information available at 11/17/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-11-17T17:00:00Z,SPY,66.1021932,926,Market,Filled,61210.6309032,Warning: No quote information available at 11/17/2008 12:00:00 America/New_York, order filled using TradeBar data 
+2008-11-19T21:00:00Z,SPY,60.55838226,-926,Market On Open,Filled,-56077.06197276,Liquidated 
+2008-11-20T15:00:00Z,SPY,59.73399564,939,Market,Filled,56090.22190596,Warning: No quote information available at 11/20/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-11-21T19:00:00Z,SPY,56.6860341,-939,Market,Filled,-53228.1860199,Liquidated - Warning: No quote information available at 11/21/2008 14:00:00 America/New_York, order filled using TradeBar data 
+2008-11-21T20:00:00Z,SPY,56.88267678,935,Market,Filled,53185.3027893,Warning: No quote information available at 11/21/2008 15:00:00 America/New_York, order filled using TradeBar data 
+2008-11-21T21:00:00Z,SPY,61.95757056,-935,Market On Open,Filled,-57930.3284736,Liquidated 
+2008-11-24T15:00:00Z,SPY,61.98782328,934,Market,Filled,57896.62694352,Warning: No quote information available at 11/24/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-11-25T15:00:00Z,SPY,65.29293294,-934,Market,Filled,-60983.59936596,Liquidated - Warning: No quote information available at 11/25/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-11-25T16:00:00Z,SPY,64.60468356,944,Market,Filled,60986.82128064,Warning: No quote information available at 11/25/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-11-28T18:00:00Z,SPY,66.14757228,-944,Market On Open,Filled,-62443.30823232,Liquidated 
+2008-12-01T15:00:00Z,SPY,64.91477394,962,Market,Filled,62448.01253028,Warning: No quote information available at 12/01/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-12-08T15:00:00Z,SPY,68.32576812,-962,Market,Filled,-65729.38893144,Liquidated - Warning: No quote information available at 12/08/2008 10:00:00 America/New_York, order filled using TradeBar data 
+2008-12-08T16:00:00Z,SPY,69.17284428,950,Market,Filled,65714.202066,Warning: No quote information available at 12/08/2008 11:00:00 America/New_York, order filled using TradeBar data 
+2008-12-12T17:00:00Z,SPY,65.64083922,-950,Market,Filled,-62358.797259,Liquidated - Warning: No quote information available at 12/12/2008 12:00:00 America/New_York, order filled using TradeBar data 
+2008-12-12T18:00:00Z,SPY,66.81313212,933,Market,Filled,62336.65226796,Warning: No quote information available at 12/12/2008 13:00:00 America/New_York, order filled using TradeBar data 
+2009-01-02T19:00:00Z,SPY,70.421165804,-933,Market,Filled,-65702.947695132,Liquidated - Warning: No quote information available at 01/02/2009 14:00:00 America/New_York, order filled using TradeBar data 
+2009-01-02T20:00:00Z,SPY,70.749025281,929,Market,Filled,65725.844486049,Warning: No quote information available at 01/02/2009 15:00:00 America/New_York, order filled using TradeBar data 
+2009-01-12T16:00:00Z,SPY,67.104447839,-929,Market,Filled,-62340.032042431,Liquidated - Warning: No quote information available at 01/12/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-01-12T17:00:00Z,SPY,66.677468055,935,Market,Filled,62343.432631425,Warning: No quote information available at 01/12/2009 12:00:00 America/New_York, order filled using TradeBar data 
+2009-01-15T16:00:00Z,SPY,62.811776082,-935,Market,Filled,-58729.01063667,Liquidated - Warning: No quote information available at 01/15/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-01-15T17:00:00Z,SPY,62.895647111,933,Market,Filled,58681.638754563,Warning: No quote information available at 01/15/2009 12:00:00 America/New_York, order filled using TradeBar data 
+2009-01-28T16:00:00Z,SPY,66.120869408,-933,Market,Filled,-61690.771157664,Liquidated - Warning: No quote information available at 01/28/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-01-28T17:00:00Z,SPY,66.044623018,934,Market,Filled,61685.677898812,Warning: No quote information available at 01/28/2009 12:00:00 America/New_York, order filled using TradeBar data 
+2009-02-02T15:00:00Z,SPY,62.270426713,-934,Market,Filled,-58160.578549942,Liquidated - Warning: No quote information available at 02/02/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-02-02T16:00:00Z,SPY,62.666907941,928,Market,Filled,58154.890569248,Warning: No quote information available at 02/02/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-02-06T17:00:00Z,SPY,65.968376628,-928,Market,Filled,-61218.653510784,Liquidated - Warning: No quote information available at 02/06/2009 12:00:00 America/New_York, order filled using TradeBar data 
+2009-02-06T18:00:00Z,SPY,65.945502711,928,Market,Filled,61197.426515808,Warning: No quote information available at 02/06/2009 13:00:00 America/New_York, order filled using TradeBar data 
+2009-02-12T15:00:00Z,SPY,62.247552796,-928,Market,Filled,-57765.728994688,Liquidated - Warning: No quote information available at 02/12/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-02-12T16:00:00Z,SPY,62.689781858,922,Market,Filled,57799.978873076,Warning: No quote information available at 02/12/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-02-20T15:00:00Z,SPY,59.007081221,-922,Market,Filled,-54404.528885762,Liquidated - Warning: No quote information available at 02/20/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-02-20T16:00:00Z,SPY,58.793591329,925,Market,Filled,54384.071979325,Warning: No quote information available at 02/20/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-03-02T15:00:00Z,SPY,55.316755945,-925,Market,Filled,-51167.999249125,Liquidated - Warning: No quote information available at 03/02/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-03-02T16:00:00Z,SPY,54.874526883,932,Market,Filled,51143.059054956,Warning: No quote information available at 03/02/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-03-06T16:00:00Z,SPY,51.92379159,-932,Market,Filled,-48392.97376188,Liquidated - Warning: No quote information available at 03/06/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-03-06T17:00:00Z,SPY,52.091533648,929,Market,Filled,48393.034758992,Warning: No quote information available at 03/06/2009 12:00:00 America/New_York, order filled using TradeBar data 
+2009-03-10T16:00:00Z,SPY,54.760157298,-929,Market,Filled,-50872.186129842,Liquidated - Warning: No quote information available at 03/10/2009 12:00:00 America/New_York, order filled using TradeBar data 
+2009-03-10T17:00:00Z,SPY,54.59241524,932,Market,Filled,50880.13100368,Warning: No quote information available at 03/10/2009 13:00:00 America/New_York, order filled using TradeBar data 
+2009-03-12T20:00:00Z,SPY,57.909133205,-932,Market On Open,Filled,-53971.31214706,Liquidated 
+2009-03-13T14:00:00Z,SPY,57.9472564,931,Market,Filled,53948.8957084,Warning: No quote information available at 03/13/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-03-18T19:00:00Z,SPY,61.45459034,-931,Market,Filled,-57214.22360654,Liquidated - Warning: No quote information available at 03/18/2009 15:00:00 America/New_York, order filled using TradeBar data 
+2009-03-18T20:00:00Z,SPY,61.736701983,939,Market On Open,Filled,57970.763162037, 
+2009-04-02T14:00:00Z,SPY,64.022174034,-939,Market,Filled,-60116.821417926,Liquidated - Warning: No quote information available at 04/02/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-04-02T15:00:00Z,SPY,64.244873212,923,Market,Filled,59298.017974676,Warning: No quote information available at 04/02/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-04-30T14:00:00Z,SPY,67.946287136,-923,Market,Filled,-62714.423026528,Liquidated - Warning: No quote information available at 04/30/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-04-30T15:00:00Z,SPY,68.222741288,920,Market,Filled,62764.92198496,Warning: No quote information available at 04/30/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-06-01T14:00:00Z,SPY,72.1852508,-920,Market,Filled,-66410.430736,Liquidated - Warning: No quote information available at 06/01/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-06-01T15:00:00Z,SPY,72.630649156,914,Market,Filled,66384.413328584,Warning: No quote information available at 06/01/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-06-22T20:00:00Z,SPY,69.110674974,-914,Market On Open,Filled,-63167.156926236,Liquidated 
+2009-06-23T14:00:00Z,SPY,69.31146585,911,Market,Filled,63142.74538935,Warning: No quote information available at 06/23/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-07-20T14:00:00Z,SPY,73.180551576,-911,Market,Filled,-66667.482485736,Liquidated - Warning: No quote information available at 07/20/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-07-20T15:00:00Z,SPY,72.879365262,915,Market,Filled,66684.61921473,Warning: No quote information available at 07/20/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-07-30T14:00:00Z,SPY,76.771619166,-915,Market,Filled,-70246.03153689,Liquidated - Warning: No quote information available at 07/30/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-07-30T15:00:00Z,SPY,77.026469124,911,Market,Filled,70171.113371964,Warning: No quote information available at 07/30/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2009-09-10T20:00:00Z,SPY,81.073177548,-911,Market On Open,Filled,-73857.664746228,Liquidated 
+2009-09-11T14:00:00Z,SPY,81.24307752,909,Market,Filled,73849.95746568,Warning: No quote information available at 09/11/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-10-19T16:00:00Z,SPY,85.331342467,-909,Market,Filled,-77566.190302503,Liquidated - Warning: No quote information available at 10/19/2009 12:00:00 America/New_York, order filled using TradeBar data 
+2009-10-19T17:00:00Z,SPY,85.284785401,910,Market,Filled,77609.15471491,Warning: No quote information available at 10/19/2009 13:00:00 America/New_York, order filled using TradeBar data 
+2009-10-28T20:00:00Z,SPY,81.63005572,-910,Market On Open,Filled,-74283.3507052,Liquidated 
+2009-10-29T14:00:00Z,SPY,81.699891319,909,Market,Filled,74265.201208971,Warning: No quote information available at 10/29/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-11-16T15:00:00Z,SPY,86.200407699,-909,Market,Filled,-78356.170598391,Liquidated - Warning: No quote information available at 11/16/2009 10:00:00 America/New_York, order filled using TradeBar data 
+2009-11-16T16:00:00Z,SPY,86.433193029,906,Market,Filled,78308.472884274,Warning: No quote information available at 11/16/2009 11:00:00 America/New_York, order filled using TradeBar data 
+2010-02-05T19:00:00Z,SPY,81.63285552,-906,Market,Filled,-73959.36710112,Liquidated - Warning: No quote information available at 02/05/2010 14:00:00 America/New_York, order filled using TradeBar data 
+2010-02-05T20:00:00Z,SPY,82.124337735,901,Market,Filled,73994.028299235,Warning: No quote information available at 02/05/2010 15:00:00 America/New_York, order filled using TradeBar data 
+2010-02-18T19:00:00Z,SPY,86.23562547,-901,Market,Filled,-77698.29854847,Liquidated - Warning: No quote information available at 02/18/2010 14:00:00 America/New_York, order filled using TradeBar data 
+2010-02-18T20:00:00Z,SPY,86.586684195,897,Market,Filled,77668.255722915,Warning: No quote information available at 02/18/2010 15:00:00 America/New_York, order filled using TradeBar data 
+2010-03-17T14:00:00Z,SPY,91.298672415,-897,Market,Filled,-81894.909156255,Liquidated - Warning: No quote information available at 03/17/2010 10:00:00 America/New_York, order filled using TradeBar data 
+2010-03-17T15:00:00Z,SPY,91.25966589,897,Market,Filled,81859.92030333,Warning: No quote information available at 03/17/2010 11:00:00 America/New_York, order filled using TradeBar data 
+2010-05-20T14:00:00Z,SPY,85.807731794,-897,Market,Filled,-76969.535419218,Liquidated - Warning: No quote information available at 05/20/2010 10:00:00 America/New_York, order filled using TradeBar data 
+2010-05-20T15:00:00Z,SPY,85.22805568,903,Market,Filled,76960.93427904,Warning: No quote information available at 05/20/2010 11:00:00 America/New_York, order filled using TradeBar data 
+2010-07-01T14:00:00Z,SPY,80.95045805,-903,Market,Filled,-73098.26361915,Liquidated - Warning: No quote information available at 07/01/2010 10:00:00 America/New_York, order filled using TradeBar data 
+2010-07-01T15:00:00Z,SPY,79.8879095,915,Market,Filled,73097.4371925,Warning: No quote information available at 07/01/2010 11:00:00 America/New_York, order filled using TradeBar data 
+2010-07-08T14:00:00Z,SPY,84.03578421,-915,Market,Filled,-76892.74255215,Liquidated - Warning: No quote information available at 07/08/2010 10:00:00 America/New_York, order filled using TradeBar data 
+2010-07-08T15:00:00Z,SPY,83.8232745,917,Market,Filled,76865.9427165,Warning: No quote information available at 07/08/2010 11:00:00 America/New_York, order filled using TradeBar data 
+2010-08-02T15:00:00Z,SPY,88.4670052,-917,Market,Filled,-81124.2437684,Liquidated - Warning: No quote information available at 08/02/2010 11:00:00 America/New_York, order filled using TradeBar data 
+2010-08-02T16:00:00Z,SPY,88.64016126,916,Market,Filled,81194.38771416,Warning: No quote information available at 08/02/2010 12:00:00 America/New_York, order filled using TradeBar data 
+2010-08-20T16:00:00Z,SPY,84.0593964,-916,Market,Filled,-76998.4071024,Liquidated - Warning: No quote information available at 08/20/2010 12:00:00 America/New_York, order filled using TradeBar data 
+2010-08-20T17:00:00Z,SPY,84.27977684,913,Market,Filled,76947.43625492,Warning: No quote information available at 08/20/2010 13:00:00 America/New_York, order filled using TradeBar data 
+2010-09-13T14:00:00Z,SPY,88.5457125,-913,Market,Filled,-80842.2355125,Liquidated - Warning: No quote information available at 09/13/2010 10:00:00 America/New_York, order filled using TradeBar data 
+2010-09-13T15:00:00Z,SPY,88.7818344,910,Market,Filled,80791.469304,Warning: No quote information available at 09/13/2010 11:00:00 America/New_York, order filled using TradeBar data 
+2010-10-13T15:00:00Z,SPY,93.434909184,-910,Market,Filled,-85025.76735744,Liquidated - Warning: No quote information available at 10/13/2010 11:00:00 America/New_York, order filled using TradeBar data 
+2010-10-13T16:00:00Z,SPY,93.45073488,910,Market,Filled,85040.1687408,Warning: No quote information available at 10/13/2010 12:00:00 America/New_York, order filled using TradeBar data 
+2010-12-10T17:00:00Z,SPY,98.23800792,-910,Market,Filled,-89396.5872072,Liquidated - Warning: No quote information available at 12/10/2010 12:00:00 America/New_York, order filled using TradeBar data 
+2010-12-10T18:00:00Z,SPY,98.332962096,909,Market,Filled,89384.662545264,Warning: No quote information available at 12/10/2010 13:00:00 America/New_York, order filled using TradeBar data 
+2011-01-26T19:00:00Z,SPY,103.256871222,-909,Market,Filled,-93860.495940798,Liquidated - Warning: No quote information available at 01/26/2011 14:00:00 America/New_York, order filled using TradeBar data 
+2011-01-26T20:00:00Z,SPY,103.344370304,908,Market,Filled,93836.688236032,Warning: No quote information available at 01/26/2011 15:00:00 America/New_York, order filled using TradeBar data 
+2011-04-28T19:00:00Z,SPY,108.578730047,-908,Market,Filled,-98589.486882676,Liquidated - Warning: No quote information available at 04/28/2011 15:00:00 America/New_York, order filled using TradeBar data 
+2011-04-28T20:00:00Z,SPY,108.762477438,907,Market On Open,Filled,98647.567036266, 
+2011-06-06T20:00:00Z,SPY,103.593583439,-907,Market On Open,Filled,-93959.380179173,Liquidated 
+2011-06-07T14:00:00Z,SPY,103.489726218,907,Market,Filled,93865.181679726,Warning: No quote information available at 06/07/2011 10:00:00 America/New_York, order filled using TradeBar data 
+2011-07-07T18:00:00Z,SPY,108.691606478,-907,Market,Filled,-98583.287075546,Liquidated - Warning: No quote information available at 07/07/2011 14:00:00 America/New_York, order filled using TradeBar data 
+2011-07-07T19:00:00Z,SPY,108.876264991,906,Market,Filled,98641.896081846,Warning: No quote information available at 07/07/2011 15:00:00 America/New_York, order filled using TradeBar data 
+2011-08-01T15:00:00Z,SPY,103.208051505,-906,Market,Filled,-93506.49466353,Liquidated - Warning: No quote information available at 08/01/2011 11:00:00 America/New_York, order filled using TradeBar data 
+2011-08-01T16:00:00Z,SPY,102.517589239,912,Market,Filled,93496.041385968,Warning: No quote information available at 08/01/2011 12:00:00 America/New_York, order filled using TradeBar data 
+2011-08-04T20:00:00Z,SPY,97.86901189,-912,Market On Open,Filled,-89256.53884368,Liquidated 
+2011-08-05T14:00:00Z,SPY,95.596909317,933,Market,Filled,89191.916392761,Warning: No quote information available at 08/05/2011 10:00:00 America/New_York, order filled using TradeBar data 
+2011-08-08T20:00:00Z,SPY,91.727109175,-933,Market On Open,Filled,-85581.392860275,Liquidated 
+2011-08-09T14:00:00Z,SPY,91.638794234,934,Market,Filled,85590.633814556,Warning: No quote information available at 08/09/2011 10:00:00 America/New_York, order filled using TradeBar data 
+2011-08-15T17:00:00Z,SPY,96.271314321,-934,Market,Filled,-89917.407575814,Liquidated - Warning: No quote information available at 08/15/2011 13:00:00 America/New_York, order filled using TradeBar data 
+2011-08-15T18:00:00Z,SPY,96.343572,933,Market,Filled,89888.552676,Warning: No quote information available at 08/15/2011 14:00:00 America/New_York, order filled using TradeBar data 
+2011-08-18T19:00:00Z,SPY,91.422021197,-933,Market,Filled,-85296.745776801,Liquidated - Warning: No quote information available at 08/18/2011 15:00:00 America/New_York, order filled using TradeBar data 
+2011-08-18T20:00:00Z,SPY,90.651272621,927,Market On Open,Filled,84033.729719667, 
+2011-08-29T17:00:00Z,SPY,96.881490277,-927,Market,Filled,-89809.141486779,Liquidated - Warning: No quote information available at 08/29/2011 13:00:00 America/New_York, order filled using TradeBar data 
+2011-08-29T18:00:00Z,SPY,96.889518908,940,Market,Filled,91076.14777352,Warning: No quote information available at 08/29/2011 14:00:00 America/New_York, order filled using TradeBar data 
+2011-09-22T14:00:00Z,SPY,90.974846042,-940,Market,Filled,-85516.35527948,Liquidated - Warning: No quote information available at 09/22/2011 10:00:00 America/New_York, order filled using TradeBar data 
+2011-09-22T15:00:00Z,SPY,91.442914974,935,Market,Filled,85499.12550069,Warning: No quote information available at 09/22/2011 11:00:00 America/New_York, order filled using TradeBar data 
+2011-09-27T15:00:00Z,SPY,96.220446142,-935,Market,Filled,-89966.11714277,Liquidated - Warning: No quote information available at 09/27/2011 11:00:00 America/New_York, order filled using TradeBar data 
+2011-09-27T16:00:00Z,SPY,95.946060906,938,Market,Filled,89997.405129828,Warning: No quote information available at 09/27/2011 12:00:00 America/New_York, order filled using TradeBar data 
+2011-10-03T14:00:00Z,SPY,90.539057726,-938,Market,Filled,-84925.636146988,Liquidated - Warning: No quote information available at 10/03/2011 10:00:00 America/New_York, order filled using TradeBar data 
+2011-10-03T15:00:00Z,SPY,90.724671268,936,Market,Filled,84918.292306848,Warning: No quote information available at 10/03/2011 11:00:00 America/New_York, order filled using TradeBar data 
+2011-10-10T14:00:00Z,SPY,95.502202436,-936,Market,Filled,-89390.061480096,Liquidated - Warning: No quote information available at 10/10/2011 10:00:00 America/New_York, order filled using TradeBar data 
+2011-10-10T15:00:00Z,SPY,95.889569828,932,Market,Filled,89369.079079696,Warning: No quote information available at 10/10/2011 11:00:00 America/New_York, order filled using TradeBar data 
+2011-10-24T15:00:00Z,SPY,100.804293614,-932,Market,Filled,-93949.601648248,Liquidated - Warning: No quote information available at 10/24/2011 11:00:00 America/New_York, order filled using TradeBar data 
+2011-10-24T16:00:00Z,SPY,101.167450544,928,Market,Filled,93883.394104832,Warning: No quote information available at 10/24/2011 12:00:00 America/New_York, order filled using TradeBar data 
+2011-11-21T16:00:00Z,SPY,95.99448183,-928,Market,Filled,-89082.87913824,Liquidated - Warning: No quote information available at 11/21/2011 11:00:00 America/New_York, order filled using TradeBar data 
+2011-11-21T17:00:00Z,SPY,96.147814756,927,Market,Filled,89129.024278812,Warning: No quote information available at 11/21/2011 12:00:00 America/New_York, order filled using TradeBar data 
+2011-11-30T21:00:00Z,SPY,100.75587269,-927,Market On Open,Filled,-93400.69398363,Liquidated 
+2011-12-01T15:00:00Z,SPY,101.151310236,923,Market,Filled,93362.659347828,Warning: No quote information available at 12/01/2011 10:00:00 America/New_York, order filled using TradeBar data 
+2012-01-18T21:00:00Z,SPY,106.58466302,-923,Market On Open,Filled,-98377.64396746,Liquidated 
+2012-01-19T15:00:00Z,SPY,106.58466302,923,Market,Filled,98377.64396746,Warning: No quote information available at 01/19/2012 10:00:00 America/New_York, order filled using TradeBar data 
+2012-02-29T15:00:00Z,SPY,112.147791195,-923,Market,Filled,-103512.41127299,Liquidated - Warning: No quote information available at 02/29/2012 10:00:00 America/New_York, order filled using TradeBar data 
+2012-02-29T16:00:00Z,SPY,111.465597375,929,Market,Filled,103551.53996138,Warning: No quote information available at 02/29/2012 11:00:00 America/New_York, order filled using TradeBar data 
+2012-05-18T20:00:00Z,SPY,106.154495244,-929,Market On Open,Filled,-98617.526081676,Liquidated 
+2012-05-21T14:00:00Z,SPY,106.333948056,927,Market,Filled,98571.569847912,Warning: No quote information available at 05/21/2012 10:00:00 America/New_York, order filled using TradeBar data 
+2012-06-29T20:00:00Z,SPY,111.943390887,-927,Market On Open,Filled,-103771.52335225,Liquidated 
+2012-07-02T14:00:00Z,SPY,111.804004844,928,Market,Filled,103754.11649523,Warning: No quote information available at 07/02/2012 10:00:00 America/New_York, order filled using TradeBar data 
+2012-09-06T15:00:00Z,SPY,117.650019471,-928,Market,Filled,-109179.21806909,Liquidated - Warning: No quote information available at 09/06/2012 11:00:00 America/New_York, order filled using TradeBar data 
+2012-09-06T16:00:00Z,SPY,117.707413724,927,Market,Filled,109114.77252215,Warning: No quote information available at 09/06/2012 12:00:00 America/New_York, order filled using TradeBar data 
+2012-11-15T17:00:00Z,SPY,111.56813876,-927,Market,Filled,-103423.66463052,Liquidated - Warning: No quote information available at 11/15/2012 12:00:00 America/New_York, order filled using TradeBar data 
+2012-11-15T18:00:00Z,SPY,111.617596376,927,Market,Filled,103469.51184055,Warning: No quote information available at 11/15/2012 13:00:00 America/New_York, order filled using TradeBar data 
+2012-11-29T15:00:00Z,SPY,117.346436896,-927,Market,Filled,-108780.14700259,Liquidated - Warning: No quote information available at 11/29/2012 10:00:00 America/New_York, order filled using TradeBar data 
+2012-11-29T16:00:00Z,SPY,117.198064048,928,Market,Filled,108759.80343654,Warning: No quote information available at 11/29/2012 11:00:00 America/New_York, order filled using TradeBar data 
+2013-01-17T19:00:00Z,SPY,123.07640814,-928,Market,Filled,-114214.90675392,Liquidated - Warning: No quote information available at 01/17/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-01-17T20:00:00Z,SPY,123.05980536,928,Market,Filled,114199.49937408,Warning: No quote information available at 01/17/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-03-11T17:00:00Z,SPY,129.32735481,-928,Market,Filled,-120015.78526368,Liquidated - Warning: No quote information available at 03/11/2013 13:00:00 America/New_York, order filled using TradeBar data 
+2013-03-11T18:00:00Z,SPY,129.37716315,928,Market,Filled,120062.0074032,Warning: No quote information available at 03/11/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-05-08T15:00:00Z,SPY,135.869669808,-928,Market,Filled,-126087.05358182,Liquidated - Warning: No quote information available at 05/08/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-05-08T16:00:00Z,SPY,136.069796976,926,Market,Filled,126000.63199978,Warning: No quote information available at 05/08/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-08-01T18:00:00Z,SPY,142.88557598,-926,Market,Filled,-132312.04335748,Liquidated - Warning: No quote information available at 08/01/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-08-01T19:00:00Z,SPY,142.986170108,925,Market,Filled,132262.2073499,Warning: No quote information available at 08/01/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-11-13T21:00:00Z,SPY,150.389940723,-925,Market On Open,Filled,-139110.69516878,Liquidated 
+2013-11-14T15:00:00Z,SPY,150.415212096,925,Market,Filled,139134.0711888,Warning: No quote information available at 11/14/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2014-02-28T16:00:00Z,SPY,158.2194132,-925,Market,Filled,-146352.95721,Liquidated - Warning: No quote information available at 02/28/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-02-28T17:00:00Z,SPY,158.42269296,924,Market,Filled,146382.56829504,Warning: No quote information available at 02/28/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-06-09T14:00:00Z,SPY,166.374645156,-924,Market,Filled,-153730.17212414,Liquidated - Warning: No quote information available at 06/09/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-06-09T15:00:00Z,SPY,166.510766772,923,Market,Filled,153689.43773056,Warning: No quote information available at 06/09/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-10-15T17:00:00Z,SPY,157.5216785,-923,Market,Filled,-145392.5092555,Liquidated - Warning: No quote information available at 10/15/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-10-15T18:00:00Z,SPY,157.100842,926,Market,Filled,145475.379692,Warning: No quote information available at 10/15/2014 14:00:00 America/New_York, order filled using TradeBar data 
+2014-10-21T14:00:00Z,SPY,165.036616,-926,Market,Filled,-152823.906416,Liquidated - Warning: No quote information available at 10/21/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-10-21T15:00:00Z,SPY,165.4059215,923,Market,Filled,152669.6655445,Warning: No quote information available at 10/21/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-11-03T18:00:00Z,SPY,173.8054745,-923,Market,Filled,-160422.4529635,Liquidated - Warning: No quote information available at 11/03/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-11-03T19:00:00Z,SPY,173.642293,924,Market,Filled,160445.478732,Warning: No quote information available at 11/03/2014 14:00:00 America/New_York, order filled using TradeBar data 
+2015-02-20T21:00:00Z,SPY,182.195759506,-924,Market On Open,Filled,-168348.88178354,Liquidated 
+2015-02-23T15:00:00Z,SPY,182.014401448,925,Market,Filled,168363.3213394,Warning: No quote information available at 02/23/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-21T20:00:00Z,SPY,163.446863619,-925,Market On Open,Filled,-151188.34884757,Liquidated 
+2015-08-24T14:00:00Z,SPY,165.46063638,914,Market,Filled,151231.02165132,Warning: No quote information available at 08/24/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-16T16:00:00Z,SPY,174.056220546,-914,Market,Filled,-159087.38557904,Liquidated - Warning: No quote information available at 09/16/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-09-16T17:00:00Z,SPY,174.387490524,912,Market,Filled,159041.39135789,Warning: No quote information available at 09/16/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-09-28T17:00:00Z,SPY,165.336445287,-912,Market,Filled,-150786.83810174,Liquidated - Warning: No quote information available at 09/28/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-09-28T18:00:00Z,SPY,165.064784196,913,Market,Filled,150704.14797095,Warning: No quote information available at 09/28/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-10-05T18:00:00Z,SPY,173.582673888,-913,Market,Filled,-158480.98125974,Liquidated - Warning: No quote information available at 10/05/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-10-05T19:00:00Z,SPY,173.889388023,912,Market,Filled,158587.12187698,Warning: No quote information available at 10/05/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-10-28T18:00:00Z,SPY,182.608832718,-912,Market,Filled,-166539.25543882,Liquidated - Warning: No quote information available at 10/28/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-10-28T19:00:00Z,SPY,181.793849445,916,Market,Filled,166523.16609162,Warning: No quote information available at 10/28/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2016-01-07T18:00:00Z,SPY,172.550909626,-916,Market,Filled,-158056.63321742,Liquidated - Warning: No quote information available at 01/07/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-01-07T19:00:00Z,SPY,171.448939376,922,Market,Filled,158075.92210467,Warning: No quote information available at 01/07/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-01-20T15:00:00Z,SPY,162.315809944,-922,Market,Filled,-149655.17676837,Liquidated - Warning: No quote information available at 01/20/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-01-20T16:00:00Z,SPY,160.75542007,930,Market,Filled,149502.5406651,Warning: No quote information available at 01/20/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-01-29T17:00:00Z,SPY,169.183288542,-930,Market,Filled,-157340.45834406,Liquidated - Warning: No quote information available at 01/29/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-01-29T18:00:00Z,SPY,169.632892404,928,Market,Filled,157419.32415091,Warning: No quote information available at 01/29/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-02-11T16:00:00Z,SPY,160.684893974,-928,Market,Filled,-149115.58160787,Liquidated - Warning: No quote information available at 02/11/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-02-11T17:00:00Z,SPY,160.570289068,929,Market,Filled,149169.79854417,Warning: No quote information available at 02/11/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-02-17T15:00:00Z,SPY,168.795395014,-929,Market,Filled,-156810.92196801,Liquidated - Warning: No quote information available at 02/17/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-02-17T16:00:00Z,SPY,169.74749731,923,Market,Filled,156676.94001713,Warning: No quote information available at 02/17/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-03-11T17:00:00Z,SPY,178.289970688,-923,Market,Filled,-164561.64294502,Liquidated - Warning: No quote information available at 03/11/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-03-11T18:00:00Z,SPY,178.237076116,923,Market,Filled,164512.82125507,Warning: No quote information available at 03/11/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-06-06T15:00:00Z,SPY,187.27249513,-923,Market,Filled,-172852.51300499,Liquidated - Warning: No quote information available at 06/06/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-06-06T16:00:00Z,SPY,187.18388318,924,Market,Filled,172957.90805832,Warning: No quote information available at 06/06/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-06-27T15:00:00Z,SPY,177.114085428,-924,Market,Filled,-163653.41493547,Liquidated - Warning: No quote information available at 06/27/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-06-27T16:00:00Z,SPY,177.924655825,920,Market,Filled,163690.683359,Warning: No quote information available at 06/27/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-07-01T14:00:00Z,SPY,187.072521734,-920,Market,Filled,-172106.71999528,Liquidated - Warning: No quote information available at 07/01/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-07-01T15:00:00Z,SPY,187.402094313,918,Market,Filled,172035.12257933,Warning: No quote information available at 07/01/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-11-21T18:00:00Z,SPY,196.887690432,-918,Market,Filled,-180742.89981658,Liquidated - Warning: No quote information available at 11/21/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-11-21T19:00:00Z,SPY,196.887690432,918,Market,Filled,180742.89981658,Warning: No quote information available at 11/21/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2017-01-25T21:00:00Z,SPY,206.604272768,-918,Market On Open,Filled,-189662.72240102,Liquidated 
+2017-01-26T15:00:00Z,SPY,206.730349824,917,Market,Filled,189571.73078861,Warning: No quote information available at 01/26/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-09T14:00:00Z,SPY,217.069707052,-917,Market,Filled,-199052.92136668,Liquidated - Warning: No quote information available at 05/09/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-09T15:00:00Z,SPY,217.03352726,917,Market,Filled,199019.74449742,Warning: No quote information available at 05/09/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-18T14:00:00Z,SPY,228.346675,-917,Market,Filled,-209393.900975,Liquidated - Warning: No quote information available at 09/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-18T15:00:00Z,SPY,228.246202463,918,Market,Filled,209530.01386103,Warning: No quote information available at 09/18/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-28T20:00:00Z,SPY,239.690937814,-918,Market,Filled,-220036.28091325,Liquidated - Warning: No quote information available at 11/28/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-11-28T21:00:00Z,SPY,240.266371435,916,Market On Open,Filled,220083.99623446, 
+2018-01-09T17:00:00Z,SPY,252.418757298,-916,Market,Filled,-231215.58168497,Liquidated - Warning: No quote information available at 01/09/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-01-09T18:00:00Z,SPY,252.437119032,915,Market,Filled,230979.96391428,Warning: No quote information available at 01/09/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-08T21:00:00Z,SPY,239.565543498,-915,Market On Open,Filled,-219202.47230067,Liquidated 
+2018-02-09T15:00:00Z,SPY,239.391107025,916,Market,Filled,219282.2540349,Warning: No quote information available at 02/09/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-16T17:00:00Z,SPY,252.088246086,-916,Market,Filled,-230912.83341478,Liquidated - Warning: No quote information available at 02/16/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-02-16T18:00:00Z,SPY,252.005618283,916,Market,Filled,230837.14634723,Warning: No quote information available at 02/16/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-03-23T20:00:00Z,SPY,241.652219408,-916,Market On Open,Filled,-221353.43297773,Liquidated 
+2018-03-26T14:00:00Z,SPY,242.094670832,915,Market,Filled,221516.62381128,Warning: No quote information available at 03/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-06T16:00:00Z,SPY,254.796713796,-915,Market,Filled,-233138.99312334,Liquidated - Warning: No quote information available at 06/06/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-06-06T17:00:00Z,SPY,254.704536416,915,Market,Filled,233054.65082064,Warning: No quote information available at 06/06/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-08-27T14:00:00Z,SPY,267.87044966,-915,Market,Filled,-245101.4614389,Liquidated - Warning: No quote information available at 08/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-27T15:00:00Z,SPY,268.027857114,914,Market,Filled,244977.4614022,Warning: No quote information available at 08/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-11T19:00:00Z,SPY,253.4724514,-914,Market,Filled,-231673.8205796,Liquidated - Warning: No quote information available at 10/11/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-10-11T20:00:00Z,SPY,257.5185604,915,Market On Open,Filled,235629.482766, 
+2018-12-17T15:00:00Z,SPY,240.4039844,-915,Market,Filled,-219969.645726,Liquidated - Warning: No quote information available at 12/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-17T16:00:00Z,SPY,241.417837,895,Market,Filled,216068.964115,Warning: No quote information available at 12/17/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-21T18:00:00Z,SPY,227.868208592,-895,Market,Filled,-203942.04668984,Liquidated - Warning: No quote information available at 12/21/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-12-21T19:00:00Z,SPY,227.924342984,895,Market,Filled,203992.28697068,Warning: No quote information available at 12/21/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2019-01-08T15:00:00Z,SPY,239.703209572,-895,Market,Filled,-214534.37256694,Liquidated - Warning: No quote information available at 01/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-08T16:00:00Z,SPY,238.094023668,901,Market,Filled,214522.71532487,Warning: No quote information available at 01/08/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T20:00:00Z,SPY,251.192048468,-901,Market,Filled,-226324.03566967,Liquidated - Warning: No quote information available at 01/30/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T21:00:00Z,SPY,250.265831,904,Market On Open,Filled,226240.311224, 
+2019-02-25T16:00:00Z,SPY,263.08318384,-904,Market,Filled,-237827.19819136,Liquidated - Warning: No quote information available at 02/25/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-25T17:00:00Z,SPY,262.80251188,905,Market,Filled,237836.2732514,Warning: No quote information available at 02/25/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-04-29T14:00:00Z,SPY,276.054082642,-905,Market,Filled,-249828.94479101,Liquidated - Warning: No quote information available at 04/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-29T15:00:00Z,SPY,276.185639886,904,Market,Filled,249671.81845694,Warning: No quote information available at 04/29/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-29T14:00:00Z,SPY,261.648564424,-904,Market,Filled,-236530.3022393,Liquidated - Warning: No quote information available at 05/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-29T15:00:00Z,SPY,261.51700718,905,Market,Filled,236672.8914979,Warning: No quote information available at 05/29/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T14:00:00Z,SPY,275.09559415,-905,Market,Filled,-248961.51270575,Liquidated - Warning: No quote information available at 06/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T15:00:00Z,SPY,275.650013964,903,Market,Filled,248911.96260949,Warning: No quote information available at 06/18/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-01T14:00:00Z,SPY,289.548259336,-903,Market,Filled,-261462.07818041,Liquidated - Warning: No quote information available at 11/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-01T15:00:00Z,SPY,289.918222384,902,Market,Filled,261506.23659037,Warning: No quote information available at 11/01/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-20T15:00:00Z,SPY,305.614311389,-902,Market,Filled,-275664.10887288,Liquidated - Warning: No quote information available at 12/20/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-20T16:00:00Z,SPY,305.90983039,901,Market,Filled,275624.75718139,Warning: No quote information available at 12/20/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-12T15:00:00Z,SPY,321.267285571,-901,Market,Filled,-289461.82429947,Liquidated - Warning: No quote information available at 02/12/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-12T16:00:00Z,SPY,320.838306376,902,Market,Filled,289396.15235115,Warning: No quote information available at 02/12/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-25T17:00:00Z,SPY,304.498965482,-902,Market,Filled,-274658.06686476,Liquidated - Warning: No quote information available at 02/25/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-25T18:00:00Z,SPY,302.28733941,909,Market,Filled,274779.19152369,Warning: No quote information available at 02/25/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-02-27T21:00:00Z,SPY,275.137722802,-909,Market On Open,Filled,-250100.19002702,Liquidated 
+2020-02-28T15:00:00Z,SPY,274.155837089,912,Market,Filled,250030.12342517,Warning: No quote information available at 02/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T17:00:00Z,SPY,289.427496431,-912,Market,Filled,-263957.87674507,Liquidated - Warning: No quote information available at 03/02/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T18:00:00Z,SPY,289.437029302,912,Market,Filled,263966.57072342,Warning: No quote information available at 03/02/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-09T14:00:00Z,SPY,266.672533354,-912,Market,Filled,-243205.35041885,Liquidated - Warning: No quote information available at 03/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-09T15:00:00Z,SPY,265.595318931,916,Market,Filled,243285.3121408,Warning: No quote information available at 03/09/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-12T14:00:00Z,SPY,246.539109802,-916,Market,Filled,-225829.82457863,Liquidated - Warning: No quote information available at 03/12/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-12T15:00:00Z,SPY,245.719282896,919,Market,Filled,225816.02098142,Warning: No quote information available at 03/12/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-16T20:00:00Z,SPY,233.593470984,-919,Market On Open,Filled,-214672.3998343,Liquidated 
+2020-03-17T14:00:00Z,SPY,227.053921478,945,Market,Filled,214565.95579671,Warning: No quote information available at 03/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-17T16:00:00Z,SPY,239.322726455,-945,Market,Filled,-226159.97649997,Liquidated - Warning: No quote information available at 03/17/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-17T17:00:00Z,SPY,237.46381661,952,Market,Filled,226065.55341272,Warning: No quote information available at 03/17/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-18T17:00:00Z,SPY,224.718368083,-952,Market,Filled,-213931.88641502,Liquidated - Warning: No quote information available at 03/18/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-18T18:00:00Z,SPY,220.933818296,969,Market,Filled,214084.86992882,Warning: No quote information available at 03/18/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-03-19T18:00:00Z,SPY,233.050097337,-969,Market,Filled,-225825.54431955,Liquidated - Warning: No quote information available at 03/19/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-03-19T19:00:00Z,SPY,233.011965853,969,Market,Filled,225788.59491156,Warning: No quote information available at 03/19/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-03-20T20:00:00Z,SPY,218.6271252,-969,Market On Open,Filled,-211849.6843188,Liquidated 
+2020-03-23T14:00:00Z,SPY,218.070968478,971,Market,Filled,211746.91039214,Warning: No quote information available at 03/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-24T16:00:00Z,SPY,230.546139087,-971,Market,Filled,-223860.30105348,Liquidated - Warning: No quote information available at 03/24/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-24T17:00:00Z,SPY,229.798204185,974,Market,Filled,223823.45087619,Warning: No quote information available at 03/24/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-25T18:00:00Z,SPY,243.587055327,-974,Market,Filled,-237253.7918885,Liquidated - Warning: No quote information available at 03/25/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-03-25T19:00:00Z,SPY,243.932256051,973,Market,Filled,237346.08513762,Warning: No quote information available at 03/25/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-07T14:00:00Z,SPY,262.496383875,-973,Market,Filled,-255408.98151037,Liquidated - Warning: No quote information available at 04/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-07T15:00:00Z,SPY,257.970418827,990,Market,Filled,255390.71463873,Warning: No quote information available at 04/07/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-04-14T14:00:00Z,SPY,271.212702156,-990,Market,Filled,-268500.57513444,Liquidated - Warning: No quote information available at 04/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-14T15:00:00Z,SPY,269.9997051675,994,Market,Filled,268379.70693649,Warning: No quote information available at 04/14/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-05-18T19:00:00Z,SPY,283.524861312,-994,Market,Filled,-281823.71214413,Liquidated - Warning: No quote information available at 05/18/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-05-18T20:00:00Z,SPY,282.307069869,996,Market On Open,Filled,281177.84158952, 
+2020-06-03T14:00:00Z,SPY,297.802746813,-996,Market,Filled,-296611.53582575,Liquidated - Warning: No quote information available at 06/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-03T15:00:00Z,SPY,298.224658809,997,Market,Filled,297329.98483257,Warning: No quote information available at 06/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-21T14:00:00Z,SPY,314.658125494,-997,Market,Filled,-313714.15111752,Liquidated - Warning: No quote information available at 07/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-21T15:00:00Z,SPY,314.35956096,998,Market,Filled,313730.84183808,Warning: No quote information available at 07/21/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-24T20:00:00Z,SPY,330.857659242,-998,Market On Open,Filled,-330195.94392352,Liquidated 
+2020-08-25T14:00:00Z,SPY,330.68429919,998,Market,Filled,330022.93059162,Warning: No quote information available at 08/25/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-21T15:00:00Z,SPY,312.04034771,-998,Market,Filled,-311416.26701458,Liquidated - Warning: No quote information available at 09/21/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-09-21T16:00:00Z,SPY,312.929957626,995,Market,Filled,311365.30783787,Warning: No quote information available at 09/21/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-10-06T15:00:00Z,SPY,328.691524616,-995,Market,Filled,-327048.06699292,Liquidated - Warning: No quote information available at 10/06/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-06T16:00:00Z,SPY,327.7168215776,998,Market,Filled,327061.38793444,Warning: No quote information available at 10/06/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-09T15:00:00Z,SPY,348.620720669,-998,Market,Filled,-347923.47922766,Liquidated - Warning: No quote information available at 11/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-09T16:00:00Z,SPY,348.4418317185,999,Market,Filled,348093.38988678,Warning: No quote information available at 11/09/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-07T15:00:00Z,SPY,366.955186896,-999,Market,Filled,-366588.2317091,Liquidated - Warning: No quote information available at 01/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-07T16:00:00Z,SPY,368.508929616,994,Market,Filled,366297.8760383,Warning: No quote information available at 01/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-31T17:00:00Z,SPY,387.379176612,-994,Market,Filled,-385054.90155233,Liquidated - Warning: No quote information available at 03/31/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-03-31T18:00:00Z,SPY,387.476603532,994,Market,Filled,385151.74391081,Warning: No quote information available at 03/31/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-04-26T14:00:00Z,SPY,406.942502148,-994,Market,Filled,-404500.84713511,Liquidated - Warning: No quote information available at 04/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-26T15:00:00Z,SPY,407.0009583,994,Market,Filled,404558.9525502,Warning: No quote information available at 04/26/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-13T16:00:00Z,SPY,427.852171636,-994,Market,Filled,-425285.05860618,Liquidated - Warning: No quote information available at 07/13/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-13T17:00:00Z,SPY,427.656680376,994,Market,Filled,425090.74029374,Warning: No quote information available at 07/13/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-10-26T15:00:00Z,SPY,449.2318316875,-994,Market,Filled,-446536.44069737,Liquidated - Warning: No quote information available at 10/26/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-26T16:00:00Z,SPY,448.275758485,996,Market,Filled,446482.65545106,Warning: No quote information available at 10/26/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-12-28T15:00:00Z,SPY,470.83074798,-996,Market,Filled,-468947.42498808,Liquidated - Warning: No quote information available at 12/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-28T16:00:00Z,SPY,470.2206469,998,Market,Filled,469280.2056062,Warning: No quote information available at 12/28/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-19T21:00:00Z,SPY,446.5054275,-998,Market On Open,Filled,-445612.416645,Liquidated 
+2022-01-20T15:00:00Z,SPY,449.41816814,991,Market,Filled,445373.40462674,Warning: No quote information available at 01/20/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-24T15:00:00Z,SPY,422.2489894,-991,Market,Filled,-418448.7484954,Liquidated - Warning: No quote information available at 01/24/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-24T16:00:00Z,SPY,421.94393886,992,Market,Filled,418568.38734912,Warning: No quote information available at 01/24/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-02-01T17:00:00Z,SPY,443.51396414,-992,Market,Filled,-439965.85242688,Liquidated - Warning: No quote information available at 02/01/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-02-01T18:00:00Z,SPY,443.24827496,992,Market,Filled,439702.28876032,Warning: No quote information available at 02/01/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-02-22T19:00:00Z,SPY,420.49740888,-992,Market,Filled,-417133.42960896,Liquidated - Warning: No quote information available at 02/22/2022 14:00:00 America/New_York, order filled using TradeBar data 
+2022-02-22T20:00:00Z,SPY,424.0694523,984,Market,Filled,417284.3410632,Warning: No quote information available at 02/22/2022 15:00:00 America/New_York, order filled using TradeBar data 
+2022-03-25T15:00:00Z,SPY,446.49087203,-984,Market,Filled,-439347.01807752,Liquidated - Warning: No quote information available at 03/25/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-03-25T16:00:00Z,SPY,443.50985721,991,Market,Filled,439518.26849511,Warning: No quote information available at 03/25/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-04-22T20:00:00Z,SPY,418.2304567,-991,Market On Open,Filled,-414466.3825897,Liquidated 
+2022-04-25T14:00:00Z,SPY,414.8743473,999,Market,Filled,414459.4729527,Warning: No quote information available at 04/25/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-05-09T20:00:00Z,SPY,399.2783095,-999,Market On Open,Filled,-398879.0311905,Liquidated 
+2022-05-10T14:00:00Z,SPY,398.91308583,1000,Market,Filled,398913.08583,Warning: No quote information available at 05/10/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-05-20T17:00:00Z,SPY,378.03611118,-1000,Market,Filled,-378036.11118,Liquidated - Warning: No quote information available at 05/20/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-05-20T18:00:00Z,SPY,378.5493985,998,Market,Filled,377792.299703,Warning: No quote information available at 05/20/2022 14:00:00 America/New_York, order filled using TradeBar data 
+2022-05-26T15:00:00Z,SPY,398.784764,-998,Market,Filled,-397987.194472,Liquidated - Warning: No quote information available at 05/26/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-05-26T16:00:00Z,SPY,399.21908404,997,Market,Filled,398021.42678788,Warning: No quote information available at 05/26/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-06-13T14:00:00Z,SPY,374.88729089,-997,Market,Filled,-373762.62901733,Liquidated - Warning: No quote information available at 06/13/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-06-13T15:00:00Z,SPY,371.25479601,1007,Market,Filled,373853.57958207,Warning: No quote information available at 06/13/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-07-20T15:00:00Z,SPY,392.507026778,-1007,Market,Filled,-395254.57596545,Liquidated - Warning: No quote information available at 07/20/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-07-20T16:00:00Z,SPY,392.348410042,1007,Market,Filled,395094.84891229,Warning: No quote information available at 07/20/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-08-08T14:00:00Z,SPY,413.563398482,-1007,Market,Filled,-416458.34227137,Liquidated - Warning: No quote information available at 08/08/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-08-08T15:00:00Z,SPY,412.8991909,1009,Market,Filled,416615.2836181,Warning: No quote information available at 08/08/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-08-31T20:00:00Z,SPY,389.483395248,-1009,Market On Open,Filled,-392988.74580523,Liquidated 
+2022-09-01T14:00:00Z,SPY,389.414000426,1009,Market,Filled,392918.72642983,Warning: No quote information available at 09/01/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-09-23T14:00:00Z,SPY,366.10846412,-1009,Market,Filled,-369403.44029708,Liquidated - Warning: No quote information available at 09/23/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-09-23T15:00:00Z,SPY,365.77997288,1010,Market,Filled,369437.7726088,Warning: No quote information available at 09/23/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-10-26T16:00:00Z,SPY,385.01164184,-1010,Market,Filled,-388861.7582584,Liquidated - Warning: No quote information available at 10/26/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-10-26T17:00:00Z,SPY,382.58279752,1016,Market,Filled,388704.12228032,Warning: No quote information available at 10/26/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-11-30T21:00:00Z,SPY,406.94092068,-1016,Market On Open,Filled,-413451.97541088,Liquidated 
+2022-12-01T15:00:00Z,SPY,407.2295948,1015,Market,Filled,413338.038722,Warning: No quote information available at 12/01/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-12-16T15:00:00Z,SPY,385.87,-1015,Market,Filled,-391658.05,Liquidated - Warning: No quote information available at 12/16/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-12-16T16:00:00Z,SPY,383.07,1023,Market,Filled,391880.61,Warning: No quote information available at 12/16/2022 11:00:00 America/New_York, order filled using TradeBar data 
