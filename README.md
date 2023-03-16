@@ -17,3 +17,7 @@ Suppose you observe $N$ iid samples $X_1,...,X_N$ from some distribution $X$ tha
 ### Interpreting Winning Percentage:
 
 Suppose that player $A$ and player $B$ will play a tennis match. Each player has played "many" games this season and had the same schedule: Player $A$ won $80$\% of his matches and meanwhile player $B$ has won $50$\% of his matches. What is the probability that player $A$ beats player $B$?
+
+### Unbalanced Costs (joint with a friend):
+
+Suppose you have a classification problem from some characteristic set $X \in \mathcal{X}$ to some class set $Y \in \mathcal{Y}$. The classification problem is interesting in the sense that certain errors in classification are more costly than others. For example, suppose that you're classifying individuals into sick or not sick-- labeling someone as sick when they're not sick is less bad than the opposite mistake. In this example, one should have a relatively low threshold for classifying someone as sick. How should one do this classification optimally and how should one train the classifier?
