@@ -6,9 +6,9 @@ This repo can be interpreted as math/ stats/ econ blog if you will. Folders corr
 
 Suppose you flip a fair coin $N$ times to produce a sequence of "H" and "T". You look at the coin flips that are preceded by $k < N$ straight "H". Do you expect the fraction of these flips that are "H" to be bigger than, less than, or equal to $0.5$? The answer is less than $0.5$.
 
-### Ménage Problem: 
+### Ménage Problem and an Extension Inspired by my Grandma: 
 
-How many ways can $n$ couples sit around a circular table of $2n$ seats so that no two partners sit side-by-side? How many ways can $n$ couples sit around a circular table of $2n$ seats such that $k$ couples sit together and the remaining couples don't?
+How many ways can $n$ couples sit around a circular table of $2n$ seats so that no two partners sit side-by-side? When organizing a dinner, my grandma likes to seat all married couples separately and all 'dating' couples side by side. Mathematically speaking, how many ways can $n$ couples sit around a circular table of $2n$ seats such that $k$ couples sit together and the remaining couples don't?
 
 ### Shrinkage Estimators:
 
