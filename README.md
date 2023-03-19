@@ -14,7 +14,7 @@ How many ways can $n$ couples sit around a circular table of $2n$ seats so that 
 
 Suppose you observe $N$ iid samples $X_1,...,X_N$ from some distribution $X$ that has mean parameter $x$. Your sample average $\bar{X} := \frac{1}{N}\sum\limits_{i=1}^{N}X_i$ is a good estimate of $x$ in the sense that it's unbiased. But, suppose you also have some prior information saying that $x_0$ should be a good estimate for $x$. How can you combine these two pieces of information to come up with an estimator for $x$ that's "better" than $\bar{X}$?
 
-### Interpreting Winning Percentage:
+### Winning Percentage Interpretation:
 
 Suppose that player $A$ and player $B$ will play a tennis match. Each player has played "many" games this season and had the same schedule: Player $A$ won $80$\% of his matches and meanwhile player $B$ has won $50$\% of his matches. What is the probability that player $A$ beats player $B$?
 
